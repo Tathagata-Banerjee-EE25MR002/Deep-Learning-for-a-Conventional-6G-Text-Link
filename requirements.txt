@@ -1,0 +1,6 @@
+numpy>=1.26
+scipy>=1.11        # scipy.optimize.milp (HiGHS) is the exact MILP solver
+torch>=2.2
+matplotlib>=3.8
+gensim>=4.3        # fastText sentence embeddings for the similarity metric
+# slides: node + pptxgenjs (slides/build_slides.js)
